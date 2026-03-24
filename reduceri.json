@@ -1,0 +1,17 @@
+{
+  "student": {
+    "prag": 30,
+    "tip": "procent",
+    "valoare": 10
+  },
+  "happy": {
+    "prag": 50,
+    "tip": "procent",
+    "valoare": 15
+  },
+  "cupon": {
+    "prag": 25,
+    "tip": "fix",
+    "valoare": 7
+  }
+}
